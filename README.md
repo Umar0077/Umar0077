@@ -1,34 +1,37 @@
 ## Hi, I am Umar 👋
 
-Full Stack Flutter Developer  
-I build mobile apps, web platforms, and AI powered products.
+Full Stack Developer with a strong focus on Flutter and modern web technologies.  
+I build mobile applications, web platforms, and AI powered solutions.
 
 ---
 
 ### 👨‍💻 About Me
 
-🌱 Currently working with Flutter, Node.js, and FastAPI  
-📚 Learning scalable backend systems and cloud services  
-💬 Ask me about mobile app development, backend APIs, and system logic  
-🧠 Strong interest in planning, coordination, and delivery of projects  
+🌱 Currently working with Flutter, Node.js, FastAPI, and React  
+📚 Learning scalable backend systems and cloud based architectures  
+💬 Ask me about mobile app development, web development, backend APIs, and system design  
+🧠 Strong interest in planning, coordination, and successful delivery of projects  
 
 ---
 
 ### 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com)  
-[Instagram](https://www.instagram.com)  
-[Portfolio](https://yourwebsite.com)
+LinkedIn  
+https://www.linkedin.com/in/syed-umar-ahmed-1737a6253/
+
+Instagram  
+https://www.instagram.com/syed_._umar/
 
 ---
 
 ### 🛠 Technical Skills
 
-**Frontend and Mobile**  
+**Frontend and Mobile Development**  
 Flutter  
 Dart  
+React  
 
-**Backend and APIs**  
+**Backend and API Development**  
 Node.js  
 Express.js  
 FastAPI  
@@ -61,6 +64,5 @@ Team Coordination
 ### 🚀 Current Focus
 
 Building scalable backend APIs  
-Developing production ready Flutter apps  
+Developing production ready Flutter and React applications  
 Managing projects from idea to delivery
-
