@@ -1,7 +1,7 @@
 ## Hi, I am Umar 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+and+React+Developer;Node.js+and+FastAPI+Backend;Project+Management+Skills"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+and+React+Developer;Node.js+and+FastAPI+Backend;Project+Management+Experience"/>
 </p>
 
 Full Stack Developer focused on mobile, web, and backend systems.  
@@ -14,7 +14,7 @@ I build scalable applications and manage projects from idea to delivery.
 🌱 Working with Flutter, React, Node.js, and FastAPI  
 📚 Learning scalable backend systems and cloud architectures  
 💬 Ask me about mobile apps, web development, backend APIs, and system design  
-🧠 Strong interest in project planning, coordination, and delivery  
+🧠 Strong interest in planning, coordination, and successful project delivery  
 
 ---
 
@@ -49,19 +49,13 @@ I build scalable applications and manage projects from idea to delivery.
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 How I Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umar0077&show_icons=true&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar0077&layout=compact&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Umar0077&theme=dark"/>
-</p>
+• I break problems into clear technical tasks  
+• I focus on clean architecture and readable code  
+• I prioritize maintainability and scalability  
+• I communicate clearly and manage timelines responsibly  
+• I take ownership from planning to deployment  
 
 ---
 
@@ -92,4 +86,4 @@ I build scalable applications and manage projects from idea to delivery.
 Building scalable backend APIs  
 Developing production ready Flutter and React applications  
 Managing projects from idea to deployment  
-Improving system design and architecture skills
+Improving system design and backend architecture
