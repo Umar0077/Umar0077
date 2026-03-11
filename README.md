@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+and+React+Developer;Node.js+and+FastAPI+Backend;Project+Management+Experience"/>
 </p>
 
-Full Stack Developer focused on mobile, web, and backend systems.  
+Full Stack Developer focused on mobile, web, and backend systems.
 I build scalable applications and manage projects from idea to delivery.
 
 ---
