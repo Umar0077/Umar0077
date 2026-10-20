@@ -5,7 +5,8 @@
 </p>
 
 Full Stack Developer focused on mobile, web, and backend systems.
-I build scalable applications and manage projects from idea to delivery.
+I build scalable applications and manage projects from idea to deliver.
+
 
 ---
 
