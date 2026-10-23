@@ -7,7 +7,7 @@
 
 Hey, I'm Syed Umar Ahmad, a Full Stack Developer who builds cross platform mobile apps, modern web frontends, and the backend systems that power them. I care about clean architecture, readable code, and getting products from a rough idea to a stable release without the chaos in between.
 
-📱 Building production Flutter apps backed by Laravel and PHP REST APIs
+📱 Building production Flutter apps powered by Laravel, Node.js, Firebase, and Supabase backends
 ⚙️ Designing APIs with Node.js, Express, FastAPI, and Laravel
 🔥 Using Firebase and Supabase for auth, realtime data, and storage
 🌐 Shipping responsive web apps with React
@@ -90,7 +90,7 @@ Flutter Dart
 📊 GitHub Stats
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Umar0077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar0077&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> <img src="https://streak-stats.demolab.com?user=Umar0077&theme=tokyonight&hide_border=true" width="60%"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umar0077&theme=tokyo-night&hide_border=true&area=true" width="100%"/> </div>
 🎯 Current Focus
-🔗 Building Flutter apps integrated with Laravel backends and secure REST APIs
+🔗 Building Flutter apps on Laravel, Node.js, Firebase, and Supabase backends with secure REST APIs
 🏛️ Designing scalable backend architecture and clean API contracts
 🚢 Shipping production ready Flutter and React applications
 📋 Leading projects from concept through deployment
