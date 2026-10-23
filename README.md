@@ -1,90 +1,98 @@
-## Hi, I am Umar 👋
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Syed%20Umar%20Ahmad&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20%E2%80%A2%20Web%20%E2%80%A2%20Backend&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Building+Flutter+apps+that+actually+ship;Laravel+%2B+PHP+backends+for+mobile+products;React+frontends+with+Node.js+and+FastAPI+APIs;From+first+idea+to+production+deployment" alt="Typing SVG"/> </a> <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+and+React+Developer;Node.js+and+FastAPI+Backend;Project+Management+Experience"/>
-</p>
+<a href="https://www.linkedin.com/in/syed-umar-ahmed-1737a6253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/syed_._umar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=1F6FEB&label=Profile+Views"/>
 
-Full Stack Developer focused on mobile, web, and backend systems.
-I build scalable applications and manage projects from idea to deliver.
+</div>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
+Hey, I'm Syed Umar Ahmad, a Full Stack Developer who builds cross platform mobile apps, modern web frontends, and the backend systems that power them. I care about clean architecture, readable code, and getting products from a rough idea to a stable release without the chaos in between.
 
----
+📱 Building production Flutter apps backed by Laravel and PHP REST APIs
+⚙️ Designing APIs with Node.js, FastAPI, and Laravel
+🌐 Shipping responsive web apps with React
+☁️ Exploring scalable backend design, containerization, and cloud deployment
+🗂️ Experienced in project planning, team coordination, and delivery tracking
+💬 Ask me about mobile development, API design, or system architecture
+🛠️ Tech Stack
+<div align="center">
 
-### 👨‍💻 About Me
+Mobile
 
-🌱 Working with Flutter, React, Node.js, and FastAPI  
-📚 Learning scalable backend systems and cloud architectures  
-💬 Ask me about mobile apps, web development, backend APIs, and system design  
-🧠 Strong interest in planning, coordination, and successful project delivery  
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" />
 
----
+Frontend
 
-### 🌐 Connect With Me
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
 
-<p align="left">
-  <a href="https://www.instagram.com/syed_._umar/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/syed-umar-ahmed-1737a6253/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+Backend
 
----
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,fastapi,py&theme=dark" />
 
-### 🧑‍💻 Tech Stack
+Databases and Cloud
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Project%20Management-0B5ED7?style=for-the-badge"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,gcp&theme=dark" />
 
----
+Tools
 
-### 🧠 How I Work
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark" /> </div>
+🧭 How I Work
+	
+🧩 Break it down	Turn vague requirements into clear, scoped technical tasks
+🏗️ Build it right	Favor clean architecture, separation of concerns, and readable code
+📈 Plan for growth	Write systems that stay maintainable as features and users scale
+🗣️ Keep people in the loop	Communicate progress clearly and respect deadlines
+🚀 Own the outcome	Stay accountable from the first planning session to deployment
+🔥 Featured Projects
+<table> <tr> <td width="50%" valign="top">
+🤖 AI Mehdi
 
-• I break problems into clear technical tasks  
-• I focus on clean architecture and readable code  
-• I prioritize maintainability and scalability  
-• I communicate clearly and manage timelines responsibly  
-• I take ownership from planning to deployment  
+AI powered learning platform built with Flutter, delivering personalized educational content.
 
----
+Flutter Dart AI
 
-### 🔥 Top Contributed Repositories
+</td> <td width="50%" valign="top">
+🛡️ Cyber ShieldAI
 
-• **AI Mehdi**  
-  Flutter based application focused on AI driven learning and education  
+Mobile security awareness app that helps users recognize and respond to cyber threats.
 
-• **Cyber ShieldAI**  
-  Mobile security focused Flutter application for cyber threat awareness  
+Flutter Security AI
 
-• **Eventoury**  
-  Web platform for event and tourism management  
+</td> </tr> <tr> <td width="50%" valign="top">
+🎟️ Eventoury
 
-• **SustainTipApp**  
-  Flutter application promoting sustainability and smart lifestyle habits  
+Web platform for managing events and tourism experiences end to end.
 
-• **ML DL Fellowship**  
-  Machine learning and deep learning research notebooks and experiments  
+React Node.js Web
 
-• **Utilitia**  
-  Utility focused Flutter application with practical daily use features  
+</td> <td width="50%" valign="top">
+🌱 SustainTipApp
 
----
+Flutter app encouraging sustainable living through practical, everyday habits.
 
-### 🚀 Current Focus
+Flutter Dart
 
-Building scalable backend APIs  
-Developing production ready Flutter and React applications  
-Managing projects from idea to deployment  
-Improving system design and backend architecture
+</td> </tr> <tr> <td width="50%" valign="top">
+🧠 ML DL Fellowship
+
+Notebooks and experiments covering core machine learning and deep learning concepts.
+
+Python ML Deep Learning
+
+</td> <td width="50%" valign="top">
+🧰 Utilitia
+
+All in one utility app packed with practical tools for daily use.
+
+Flutter Dart
+
+</td> </tr> </table>
+📊 GitHub Stats
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="60%"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/> </div>
+🎯 Current Focus
+🔗 Building Flutter apps integrated with Laravel backends and secure REST APIs
+🏛️ Designing scalable backend architecture and clean API contracts
+🚢 Shipping production ready Flutter and React applications
+📋 Leading projects from concept through deployment
+<div align="center">
+🤝 Open to collaborations, freelance work, and interesting problems
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%"/> </div>
