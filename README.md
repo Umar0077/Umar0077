@@ -8,7 +8,8 @@
 Hey, I'm Syed Umar Ahmad, a Full Stack Developer who builds cross platform mobile apps, modern web frontends, and the backend systems that power them. I care about clean architecture, readable code, and getting products from a rough idea to a stable release without the chaos in between.
 
 📱 Building production Flutter apps backed by Laravel and PHP REST APIs
-⚙️ Designing APIs with Node.js, FastAPI, and Laravel
+⚙️ Designing APIs with Node.js, Express, FastAPI, and Laravel
+🔥 Using Firebase and Supabase for auth, realtime data, and storage
 🌐 Shipping responsive web apps with React
 ☁️ Exploring scalable backend design, containerization, and cloud deployment
 🗂️ Experienced in project planning, team coordination, and delivery tracking
@@ -24,13 +25,13 @@ Frontend
 
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
 
-Backend
+Backend and BaaS
 
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,fastapi,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,fastapi,py,firebase,supabase&theme=dark" />
 
 Databases and Cloud
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,gcp&theme=dark" />
 
 Tools
 
