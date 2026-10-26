@@ -5,7 +5,7 @@
 </div>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-Hey, I'm Syed Umar Ahmad, a Full Stack Developer who builds cross platform mobile apps, modern web frontends, and the backend systems that power them. I care about clean architecture, readable code, and getting products from a rough idea to a stable release without the chaos in between.
+Yoo Wassup, I'm Syed Umar Ahmad, a Full Stack Developer who builds cross platform mobile apps, modern web frontends, and the backend systems that power them. I care about clean architecture, readable code, and getting products from a rough idea to a stable release without the chaos in between.
 
 📱 Building production Flutter apps powered by Laravel, Node.js, Firebase, and Supabase backends
 ⚙️ Designing APIs with Node.js, Express, FastAPI, and Laravel
