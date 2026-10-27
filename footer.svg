@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3D0A2A"/>
+      <stop offset="100%" stop-color="#0B0A1F"/>
+    </linearGradient>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFD23F"/>
+      <stop offset="50%" stop-color="#FF8A00"/>
+      <stop offset="100%" stop-color="#FF2E88"/>
+    </linearGradient>
+    <linearGradient id="txt" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0" spreadMethod="reflect">
+      <stop offset="0%" stop-color="#FF2E88"/>
+      <stop offset="50%" stop-color="#FFD23F"/>
+      <stop offset="100%" stop-color="#3A86FF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;2400 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="200"/></clipPath>
+  </defs>
+  <style>
+    .t{font:800 30px "Segoe UI",Ubuntu,Arial,sans-serif;animation:float 4s ease-in-out infinite}
+    .s{font:600 17px "Segoe UI",Ubuntu,Arial,sans-serif;fill:#FFE3F1;letter-spacing:3px;animation:fade 3s ease-in-out infinite}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+    @keyframes fade{0%,100%{opacity:.55}50%{opacity:1}}
+  </style>
+  <g clip-path="url(#frame)">
+    <path fill="url(#w1)" opacity=".4" d="M0 34 Q150 60 300 34 T600 34 T900 34 T1200 34 T1500 34 T1800 34 T2100 34 T2400 34 V50 Q2250 76 2100 50 T1800 50 T1500 50 T1200 50 T900 50 T600 50 T300 50 T0 50 Z">
+      <animateTransform attributeName="transform" type="translate" values="-600 0;0 0" dur="10s" repeatCount="indefinite"/>
+    </path>
+    <path fill="url(#bg)" d="M0 46 Q150 16 300 46 T600 46 T900 46 T1200 46 T1500 46 T1800 46 T2100 46 T2400 46 V200 H0 Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-600 0" dur="8s" repeatCount="indefinite"/>
+    </path>
+    <text class="t" x="600" y="122" text-anchor="middle" fill="url(#txt)">Open to collaborations, freelance work and interesting problems</text>
+    <text class="s" x="600" y="160" text-anchor="middle">LET'S BUILD SOMETHING REAL</text>
+  </g>
+</svg>

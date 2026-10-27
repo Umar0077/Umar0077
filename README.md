@@ -1,99 +1,113 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Syed%20Umar%20Ahmad&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20%E2%80%A2%20Web%20%E2%80%A2%20Backend&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Building+Flutter+apps+that+actually+ship;Laravel+%2B+PHP+backends+for+mobile+products;React+frontends+with+Node.js+and+FastAPI+APIs;From+first+idea+to+production+deployment" alt="Typing SVG"/> </a> <br/>
-
-<a href="https://www.linkedin.com/in/syed-umar-ahmed-1737a6253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/syed_._umar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=Umar0077&style=for-the-badge&color=1F6FEB&label=Profile+Views"/>
-
+<div align="center">
+  <img src="./header.svg" width="100%" alt="Syed Umar Ahmad, Full Stack Developer"/>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/syed-umar-ahmed-1737a6253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/syed_._umar/"><img src="https://img.shields.io/badge/Instagram-FF2E88?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/Open_to_work-FF8A00?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to work"/>
 </div>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-Yoo Wassup, I'm Syed Umar Ahmad, a Full Stack Developer who builds cross platform mobile apps, modern web frontends, and the backend systems that power them. I care about clean architecture, readable code, and getting products from a rough idea to a stable release without the chaos in between.
+<img src="./divider.svg" width="100%" alt=""/>
 
-📱 Building production Flutter apps powered by Laravel, Node.js, Firebase, and Supabase backends
-⚙️ Designing APIs with Node.js, Express, FastAPI, and Laravel
-🔥 Using Firebase and Supabase for auth, realtime data, and storage
-🌐 Shipping responsive web apps with React
-☁️ Exploring scalable backend design, containerization, and cloud deployment
-🗂️ Experienced in project planning, team coordination, and delivery tracking
-💬 Ask me about mobile development, API design, or system architecture
-🛠️ Tech Stack
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt=""/> About Me</h2>
+
+<p>
+Yoo Wassup, I'm <b>Syed Umar Ahmad</b>, a Full Stack Developer who builds cross platform mobile apps, modern web frontends, and the backend systems that power them. I care about clean architecture, readable code, and getting products from a rough idea to a stable release without the chaos in between.
+</p>
+
+<ul>
+  <li>📱 Building production <b>Flutter</b> apps powered by Laravel, Node.js, Firebase, and Supabase backends</li>
+  <li>⚙️ Designing APIs with <b>Node.js, Express, FastAPI, and Laravel</b></li>
+  <li>🔥 Using <b>Firebase and Supabase</b> for auth, realtime data, and storage</li>
+  <li>🌐 Shipping responsive web apps with <b>React</b></li>
+  <li>☁️ Exploring scalable backend design, containerization, and cloud deployment</li>
+  <li>🗂️ Experienced in project planning, team coordination, and delivery tracking</li>
+  <li>💬 Ask me about <b>mobile development, API design, or system architecture</b></li>
+</ul>
+
+<img src="./divider.svg" width="100%" alt=""/>
+
+<h2>🛠️ Tech Stack</h2>
+
 <div align="center">
+  <p><b>📱 Mobile</b></p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="Mobile"/>
+  <p><b>🎨 Frontend</b></p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" alt="Frontend"/>
+  <p><b>⚙️ Backend and BaaS</b></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,fastapi,py,firebase,supabase&theme=dark" alt="Backend"/>
+  <p><b>🗄️ Databases and Cloud</b></p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,gcp&theme=dark" alt="Databases"/>
+  <p><b>🧰 Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark" alt="Tools"/>
+</div>
 
-Mobile
+<img src="./divider.svg" width="100%" alt=""/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" />
+<h2>🧭 How I Work</h2>
 
-Frontend
+<img src="./how-i-work.svg" width="100%" alt="Break it down, build it right, plan for growth, keep people in the loop, own the outcome"/>
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
+<img src="./divider.svg" width="100%" alt=""/>
 
-Backend and BaaS
+<h2>🔥 Featured Projects</h2>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,fastapi,py,firebase,supabase&theme=dark" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Mehdi</h3>
+      <p>AI powered learning platform built with Flutter, delivering personalized educational content.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+      <img src="https://img.shields.io/badge/AI-FF2E88?style=flat-square" alt="AI"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Cyber ShieldAI</h3>
+      <p>Mobile security awareness app that helps users recognize and respond to cyber threats.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+      <img src="https://img.shields.io/badge/Security-FF8A00?style=flat-square" alt="Security"/>
+      <img src="https://img.shields.io/badge/AI-FF2E88?style=flat-square" alt="AI"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎟️ Eventoury</h3>
+      <p>Web platform for managing events and tourism experiences end to end.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Web-3A86FF?style=flat-square" alt="Web"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 SustainTipApp</h3>
+      <p>Flutter app encouraging sustainable living through practical, everyday habits.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 ML DL Fellowship</h3>
+      <p>Notebooks and experiments covering core machine learning and deep learning concepts.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/ML-FFD23F?style=flat-square&logoColor=black" alt="ML"/>
+      <img src="https://img.shields.io/badge/Deep_Learning-FF2E88?style=flat-square" alt="Deep Learning"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧰 Utilitia</h3>
+      <p>All in one utility app packed with practical tools for daily use.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+    </td>
+  </tr>
+</table>
 
-Databases and Cloud
+<img src="./divider.svg" width="100%" alt=""/>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,gcp&theme=dark" />
+<h2>🎯 Current Focus</h2>
 
-Tools
+<img src="./focus.svg" width="100%" alt="Current focus: Flutter apps on Laravel, Node.js, Firebase and Supabase, scalable backend architecture, production Flutter and React apps, leading projects end to end"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark" /> </div>
-🧭 How I Work
-	
-🧩 Break it down	Turn vague requirements into clear, scoped technical tasks
-🏗️ Build it right	Favor clean architecture, separation of concerns, and readable code
-📈 Plan for growth	Write systems that stay maintainable as features and users scale
-🗣️ Keep people in the loop	Communicate progress clearly and respect deadlines
-🚀 Own the outcome	Stay accountable from the first planning session to deployment
-🔥 Featured Projects
-<table> <tr> <td width="50%" valign="top">
-🤖 AI Mehdi
+<br/><br/>
 
-AI powered learning platform built with Flutter, delivering personalized educational content.
-
-Flutter Dart AI
-
-</td> <td width="50%" valign="top">
-🛡️ Cyber ShieldAI
-
-Mobile security awareness app that helps users recognize and respond to cyber threats.
-
-Flutter Security AI
-
-</td> </tr> <tr> <td width="50%" valign="top">
-🎟️ Eventoury
-
-Web platform for managing events and tourism experiences end to end.
-
-React Node.js Web
-
-</td> <td width="50%" valign="top">
-🌱 SustainTipApp
-
-Flutter app encouraging sustainable living through practical, everyday habits.
-
-Flutter Dart
-
-</td> </tr> <tr> <td width="50%" valign="top">
-🧠 ML DL Fellowship
-
-Notebooks and experiments covering core machine learning and deep learning concepts.
-
-Python ML Deep Learning
-
-</td> <td width="50%" valign="top">
-🧰 Utilitia
-
-All in one utility app packed with practical tools for daily use.
-
-Flutter Dart
-
-</td> </tr> </table>
-📊 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Umar0077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar0077&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> <img src="https://streak-stats.demolab.com?user=Umar0077&theme=tokyonight&hide_border=true" width="60%"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umar0077&theme=tokyo-night&hide_border=true&area=true" width="100%"/> </div>
-🎯 Current Focus
-🔗 Building Flutter apps on Laravel, Node.js, Firebase, and Supabase backends with secure REST APIs
-🏛️ Designing scalable backend architecture and clean API contracts
-🚢 Shipping production ready Flutter and React applications
-📋 Leading projects from concept through deployment
 <div align="center">
-🤝 Open to collaborations, freelance work, and interesting problems
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%"/> </div>
+  <a href="https://www.linkedin.com/in/syed-umar-ahmed-1737a6253/"><img src="./footer.svg" width="100%" alt="Open to collaborations, freelance work and interesting problems"/></a>
+</div>
